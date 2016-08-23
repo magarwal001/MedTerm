@@ -1,0 +1,778 @@
+<resources>
+    <string name="app_name">MedTerm Dictionary</string>
+    <string name="my_tb_title">Glossary</string>
+    <string name="menu_1">Abbreviations and Meanings</string>
+    <string name="menu_2">Glossary</string>
+    <string name="menu_3">Prefixes and Roots</string>
+    <string name="menu_4">Settings</string>
+    <string name="searchable">Searchable</string>
+    <string name="menu_search">Search</string>
+
+    <!-- This is for the definitions of Glossary! -->
+    <string name="definition1">Surgical puncture of the abdominal cavity to remove fluid for diagnostic purposes. </string>
+    <string name="definition2">The removal or destruction of the function of a body part.</string>
+    <string name="definition3">The interruption or termination of pregnancy before the fetus is viable.</string>
+    <string name="definition4">An injury in which superficial layers of skin are scraped or rubbed away; treatment involving scraping or rubbing away skin.</string>
+    <string name="definition5">An abnormal condition in which the placenta separates from the uterine wall prematurely before the birth of the fetus.</string>
+    <string name="definition6">A localized collection of purulent exudate (pus) within a circumscribed area.</string>
+    <string name="definition7">The process whereby the eyes make adjustments for seeing objects at various distances.</string>
+    <string name="definition8">Medications administered to treat hypertension and congestive heart failure.</string>
+    <string name="definition9">A substance with a sweet fruity odor that is found in small quantities in normal urine and in larger amounts in diabetic urine.</string>
+    <string name="definition10">Inflammation of the Achilles tendon caused by excessive stress being placed on the tendon. </string>
+    <string name="definition11">The absence of hydrochloric acid from gastric secretions. </string>
+    <string name="definition12">A chronic inflammatory disease characterized by pustular eruptions of the skin in or near the sebaceous glands. </string>
+    <string name="definition13">The advanced stage of HIV infection. </string>
+    <string name="definition14">Enlargement of the extremities (hands and feet) caused by excessive secretion of the growth hormone after puberty.</string>
+    <string name="definition15">A word formed from the initial letter or letters of the major pares of a compound term. </string>
+    <string name="definition16">An excessive fear of being in high places. </string>
+    <string name="definition17">A pre­cancerous skin lesion caused by excessive exposure to the sun. </string>
+    <string name="definition18">Inflammation of the nose and throat; among the terms used to describe the common cold; also known as an upper respiratory infection. </string>
+    <string name="definition19">A type of lung failure resulting from many different disorders that cause pulmonary edema. </string>
+    <string name="definition20">Compulsive, uncontrollable dependence on a substance, habit, or action to the degree that stopping causes severe emotional, mental, or physiologic reactions. </string>
+    <string name="definition21">A progressive disease in which the adrenal glands do not produce enough cortisol that if untreated can produce a life-threatening addisonian crisis. </string>
+    <string name="definition22">surgical removal of a gland. </string>
+    <string name="definition23">Inflammation of a gland. </string>
+    <string name="definition24">Any one of a large group of carcinomas derived from glandular tissue. </string>
+    <string name="definition25">Surgical removal of the adenoids. </string>
+    <string name="definition26">A benign tumor in which the cells form recognizable glandular structures. </string>
+    <string name="definition27">A benign tumor of the pituitary gland that causes excess hormone secretion. An ACfH-secreting tumor stimulates the excess production of cortisol
+        that causes most cases of Cushing\'s syndrome. </string>
+    <string name="definition28">A benign tumor of the pituitary gland that causes it to produce too much prolactin; also known as a prolactinoma. </string>
+    <string name="definition29">Abnonnal softening of a gland. </string>
+    <string name="definition30">Abnormal hardening of a gland. </string>
+    <string name="definition31">Any disease condition of a gland.</string>
+    <string name="definition32">A band of fibrous tissue that holds structures together abnormally. </string>
+    <string name="definition33">Inflammation of the adrenal glands. </string>
+    <string name="definition34">Inflammation of the adrenal glands.</string>
+    <string name="definition35">Enlargement of the adrenal glands.</string>
+    <string name="definition36">Any disease of the adrenal glands. </string>
+    <string name="definition37">The spasmodic swal­lowing of air followed by eructations. </string>
+    <string name="definition38">Laboratory tests that involve the clumping together of cells or particles when mixed with incompatible serum. These tests are performed to determine the patient\'s
+        blood type and to check compatibility of donor and recipient blood before a transfusion. </string>
+    <string name="definition39">An overwhelm­ing and irrational fear of leaving the familiar setting of home or venturing into the open. </string>
+    <string name="definition40">An inherited deficiency or absence of pigment in the skin, hair, and eyes due to an abnormality in production of melanin. </string>
+    <string name="definition41">The presence of the serum protein albumin in the urine. </string>
+    <string name="definition42">Chronic. dependence on, or abuse of, alcohol with specific signs and symptoms of withdrawal. </string>
+    <string name="definition43">An abnormality of electrolyte balance caused by excessive secretion of aldosterone. </string>
+    <string name="definition44">An antigen capable of inducing an allergic response. </string>
+    <string name="definition45">Commonly referred to as an allergy, is an allergic reaction 10 airborne allergens that causes an increased flow of mucus. </string>
+    <string name="definition46">A specialist in diagnosing and treat­ing conditions of allergic reactions and altered immuno­logic reactivity. </string>
+    <string name="definition47">An overreaction by the body to a particular anti­gen; also known as hypersensitivity. </string>
+    <string name="definition48">Originating within another.</string>
+    <string name="definition49">The partial or complete loss of hair; also known as baldness. </string>
+    <string name="definition50">A disease of unknown cause in which there are well-defined bald areas, usually on the scalp and face. </string>
+
+    <!-- This is for the definitions of Prefixes and Roots! -->
+    <string name="pr1">pertaining to</string>
+    <string name="pr2">pertaining to</string>
+    <string name="pr3">pertaining to</string>
+    <string name="pr4">pertaining to</string>
+    <string name="pr5">pertaining to</string>
+    <string name="pr6">pertaining to</string>
+    <string name="pr7">pertaining to</string>
+    <string name="pr8">pertaining to</string>
+    <string name="pr9">pertaining to</string>
+    <string name="pr10">pertaining to</string>
+    <string name="pr11">pertaining to</string>
+    <string name="pr12">pertaining to</string>
+    <string name="pr13">pertaining to</string>
+    <string name="pr14">abnormal condition, disease</string>
+    <string name="pr15">abnormal condition, disease</string>
+    <string name="pr16">abnormal condition, disease</string>
+    <string name="pr17">abnormal condition, disease</string>
+    <string name="pr18">condition</string>
+    <string name="pr19">condition, state of</string>
+    <string name="pr20">abnormal condition, disease</string>
+    <string name="pr21">noun ending</string>
+    <string name="pr22">noun ending</string>
+    <string name="pr23">Singular noun ending</string>
+    <string name="pr24">Singular noun ending</string>
+    <string name="pr25">noun ending</string>
+    <string name="pr26">no, not without, away from, negative</string>
+    <string name="pr27">noun ending</string>
+    <string name="pr28">away from, negative absent</string>
+    <string name="pr29">abdomen</string>
+    <string name="pr30">capable of, able to</string>
+    <string name="pr31">premature expulsion of a nonviable fetus</string>
+    <string name="pr32">rub or scrape off </string>
+    <string name="pr33">broken away from </string>
+    <string name="pr34">away from </string>
+    <string name="pr35">going away, collection of pus </string>
+    <string name="pr36">suck up, suck in </string>
+    <string name="pr37">pertaining to </string>
+    <string name="pr38">spiny, thorny </string>
+    <string name="pr39">acetabulum (hip socket)</string>
+    <string name="pr40">characterized by </string>
+    <string name="pr41">point or peak </string>
+    <string name="pr42">hearing, sound </string>
+    <string name="pr43">get, obtain </string>
+    <string name="pr44">extremities (hands and feet), top, extreme point </string>
+    <string name="pr45">acromion, point of shoulder blade </string>
+    <string name="pr46">light </string>
+    <string name="pr47">sharp, severe, sudden </string>
+    <string name="pr48">sharp, sharpness </string>
+    <string name="pr49">hearing, sense of hearing </string>
+    <string name="pr50">toward, to, in direction of </string>
+
+    <!-- This is for the definitions of Abbreviations and Meanings! -->
+    <string name="abd1">aortic valve closure</string>
+    <string name="abd2">accommodation; age; anterior </string>
+    <string name="abd3">abdominal aortic aneurysm </string>
+    <string name="abd4">anterior axillary line </string>
+    <string name="abd5">adeno-associated virus </string>
+    <string name="abd6">antibody </string>
+    <string name="abd7">abortion </string>
+    <string name="abd8">abdomen </string>
+    <string name="abd9">abnormal</string>
+    <string name="abd10">acid-base ratio </string>
+    <string name="abd11">aspiration; biopsy; cytology</string>
+    <string name="abd12">acute bacterial endocarditis </string>
+    <string name="abd13">arterial blood gases </string>
+    <string name="abd14">arterial blood pressure </string>
+    <string name="abd15">auditory brainstem response </string>
+    <string name="abd16">acromioclavicular; air conduction</string>
+    <string name="abd17">acute </string>
+    <string name="abd18">before meals </string>
+    <string name="abd19">accommodation </string>
+    <string name="abd20">acid-citrate-dextrose; anterior chest diameter </string>
+    <string name="abd21">angiocardiography; apex cardiogram </string>
+    <string name="abd22">adrenocortical hormone </string>
+    <string name="abd23">anterior cruciate ligament</string>
+    <string name="abd24">advanced cardiac life support</string>
+    <string name="abd25">acid phosphatase </string>
+    <string name="abd26">adrenocorticotropic hormone</string>
+    <string name="abd27">acute cardiovascular disease </string>
+    <string name="abd28">abdominal diaphragmatic breathing; adenovirus; Alzheimer\'s disease; right ear </string>
+    <string name="abd29">anention deficit disorder </string>
+    <string name="abd30">adverse drug event </string>
+    <string name="abd31">antidiuretic hormone </string>
+    <string name="abd32">attention deficit hyperactivity disorder </string>
+    <string name="abd33">activities of daily living </string>
+    <string name="abd34">as desired </string>
+    <string name="abd35">admission </string>
+    <string name="abd36">antibody deficiency syndrome </string>
+    <string name="abd37">adverse drug reaction  </string>
+    <string name="abd38">admission; discharge; transfer  </string>
+    <string name="abd39">above elbow </string>
+    <string name="abd40">automated external defibrillation</string>
+    <string name="abd41">acid-fast; atrial fibrillation </string>
+    <string name="abd42">acid-fast bacilli </string>
+    <string name="abd43">atrial fibrillation  </string>
+    <string name="abd44">alpha-fetoprotein  </string>
+    <string name="abd45">antigen </string>
+    <string name="abd46">albumin/globulin ratio </string>
+    <string name="abd47">abdominal hysterectomy  </string>
+    <string name="abd48">arteriosclerotic heart disease; autoimmune hemolytic disease  </string>
+    <string name="abd49">antihemophilic factor VIII </string>
+    <string name="abd50">antihemophilic globulin factor VIIl</string>
+    <string name="abd51">aortic insufficiency; atherogenic index </string>
+    <string name="abd52">acute infectious disease; artificial insemination donor </string>
+    <string name="abd53">acquired immune deficiency syndrome </string>
+    <string name="abd54">artificial insemination homologous</string>
+    <string name="abd55">autoimmune hemolytic anemia </string>
+    <string name="abd56">ankle jerk </string>
+    <string name="abd57">above knee  </string>
+    <string name="abd58">above-knee amputation; also known as </string>
+    <string name="abd59">albumin </string>
+    <string name="abd60">antilymphocytic globulin </string>
+    <string name="abd61">alkaline</string>
+    <string name="abd62">alkaline phosphatase </string>
+    <string name="abd63">acute lymphoblascic leukemia; acute lymphocytic leukemia </string>
+    <string name="abd64">axillary lymph node dissection </string>
+    <string name="abd65">alkaline phosphatase </string>
+    <string name="abd66">aldolase; amyotrophic lateral sclerosis; antilymphocytic serum </string>
+    <string name="abd67">alanine transaminase (liver and heart enzyme) </string>
+    <string name="abd68">alternate days; every other day </string>
+    <string name="abd69">alternate hours </string>
+    <string name="abd70">alternate nights</string>
+    <string name="abd71">advanced maternal age; against medical advice; American Medical Association </string>
+    <string name="abd72">ambulate; ambulatory </string>
+    <string name="abd73">age-related macular degeneration</string>
+    <string name="abd74">acute myocardial infarction </string>
+    <string name="abd75">acute myeloblastic leukemia; acute myelocytic leukemia </string>
+    <string name="abd76">ampule </string>
+    <string name="abd77">amylase </string>
+    <string name="abd78">amount  </string>
+    <string name="abd79">anesthesiology </string>
+    <string name="abd80">antinuclear antibodies</string>
+    <string name="abd81">antinuclear factor </string>
+    <string name="abd82">acute nonlymphocytic leukemia</string>
+    <string name="abd83">autonomic nervous system</string>
+    <string name="abd84">anterior </string>
+    <string name="abd85">adult-onset diabetes; arterial occlusive disease  </string>
+    <string name="abd86">acute otitis media </string>
+    <string name="abd87">anterior and posterior; auscultation and percussion  </string>
+    <string name="abd88">angina pectoris; anteroposterior; anterior-posterior </string>
+    <string name="abd89">aspiration percutaneous lumbar diskectomy </string>
+    <string name="abd90">aqueous; water </string>
+    <string name="abd91">acute respiratory disease </string>
+    <string name="abd92">adult respiratory distress syndrome</string>
+    <string name="abd93">acute renal failure; acute respiratory failure </string>
+    <string name="abd94">artificial rupture of membranes</string>
+    <string name="abd95">assisted reproductive technology</string>
+    <string name="abd96">ankylosing spondylitis; aortic stenosis; left ear </string>
+    <string name="abd97">aspirin </string>
+    <string name="abd98">as soon as possible </string>
+    <string name="abd99">arteriosclerotic cardiovascular disease </string>
+    <string name="abd100">atrial septa! defect </string>
+    <string name="abd101">asymmetrical septal hypertrophy</string>
+    <string name="abd102">arteriosclerotic heart disease</string>
+    <string name="abd103">anterior superior iliac spine</string>
+    <string name="abd104">arteriosclerosis obliterans</string>
+    <string name="abd105">anterior superior spine </string>
+    <string name="abd106">aspartate aminotransferase  </string>
+    <string name="abd107">as tolerated  </string>
+    <string name="abd108">adenosine triphosphate  </string>
+    <string name="abd109">gold </string>
+    <string name="abd110">aures unitas; both ears </string>
+    <string name="abd111">acute undifferentiated leukemia</string>
+    <string name="abd112">auscultation  </string>
+    <string name="abd113">aortic valve; artificial ventilation; atrioventricular; arteriovenous  </string>
+    <string name="abd114">arteriovenous malfunction</string>
+    <string name="abd115">atrioventricular node</string>
+    <string name="abd116">aortic valve replacement </string>
+    <string name="abd117">axillary</string>
+    <string name="abd118">Aschheim-Zondek test </string>
+    <string name="abd119">backache</string>
+    <string name="abd120">bronchial asthma</string>
+    <string name="abd121">barium</string>
+    <string name="abd122">blood alcohol concentration</string>
+    <string name="abd123">barium enema</string>
+    <string name="abd124">basal acid output</string>
+    <string name="abd125">basophils </string>
+    <string name="abd126">blood-brain barrier; bundle branch block</string>
+    <string name="abd127">basal body temperature </string>
+    <string name="abd128">bone conduction</string>
+    <string name="abd129">basal cell carcinoma</string>
+    <string name="abd130">barium enema; below elbow </string>
+    <string name="abd131">brain electrical activity map</string>
+    <string name="abd132">binge eating disorder</string>
+    <string name="abd133">biologic false positive</string>
+    <string name="abd134">bis in die; twice a day</string>
+    <string name="abd135">bilateral</string>
+    <string name="abd136">twice a night</string>
+    <string name="abd137">below knee </string>
+    <string name="abd138">below-knee amputation</string>
+    <string name="abd139">blood</string>
+    <string name="abd140">Bence Jones</string>
+    <string name="abd141">bone marrow; bowel movement</string>
+    <string name="abd142">Becker\'s muscular dystrophy; bone mineral density</string>
+    <string name="abd143">body mass index</string>
+    <string name="abd144">basal metabolic rate</string>
+    <string name="abd145">barium meal test; bone marrow transplant</string>
+    <string name="abd146">bladder neck obstruction</string>
+    <string name="abd147">bladder neck resection </string>
+    <string name="abd148">bilateral otitis media</string>
+    <string name="abd149">blood pressure</string>
+    <string name="abd150">blood pressure and pulse</string>
+    <string name="abd151">benign prostatic hyperplasia; benign prostatic hypertrophy</string>
+    <string name="abd152">beats per minute; breaths per minute</string>
+    <string name="abd153">benign paroxysmal positional vertigo</string>
+    <string name="abd154">bed rest </string>
+    <string name="abd155">bright red blood per rectum</string>
+    <string name="abd156">bronchoscopy </string>
+    <string name="abd157">bathroom privileges </string>
+    <string name="abd158">blood sugar; bowel sounds; breath sounds </string>
+    <string name="abd159">breast self-examination </string>
+    <string name="abd160">bilateral salpingo-oophorectomy</string>
+    <string name="abd161">bleeding time </string>
+    <string name="abd162">blood urea nitrogen </string>
+    <string name="abd163">bacterial vaginosis; blood volume</string>
+    <string name="abd164">biopsy  </string>
+    <string name="abd165">cervical vertebrae</string>
+    <string name="abd166">centigrade; Celsius </string>
+    <string name="abd167">centimeter </string>
+    <string name="abd168">with </string>
+    <string name="abd169">without </string>
+    <string name="abd170">calcium </string>
+    <string name="abd171">cancer; cardiac arrest; carcinoma; chronological age </string>
+    <string name="abd172">coronary artery bypass  </string>
+    <string name="abd173">coronary artery bypass grafting</string>
+    <string name="abd174">computer-assisted diagnosis; coronary artery disease</string>
+    <string name="abd175">calorie</string>
+    <string name="abd176">capsule </string>
+    <string name="abd177">continuous ambulatory peritoneal dialysis</string>
+    <string name="abd178">computerized axial tomography</string>
+    <string name="abd179">catheter; catheterize</string>
+    <string name="abd180">continuous arteriovenous hemofiltration </string>
+    <string name="abd181">complete blood count</string>
+    <string name="abd182">capillary blood flow; coronary blood flow</string>
+    <string name="abd183">continuous bladder irrigation</string>
+    <string name="abd184">complete bedrest </string>
+    <string name="abd185">chronic brain syndrome </string>
+    <string name="abd186">chief complaint; colony count; cardiac cycle; cardiac catherization; creatinine clearance </string>
+    <string name="abd187">cubic centimeter (1/1000 Liter)</string>
+    <string name="abd188">circumflex coronary artery</string>
+    <string name="abd189">closed chest cardiopulmonary resuscitation</string>
+    <string name="abd190">continuous cycle peritoneal dialysis </string>
+    <string name="abd191">creatinine clearance </string>
+    <string name="abd192">cranial computed tomography</string>
+    <string name="abd193">coronary care unit </string>
+    <string name="abd194">calculated date (day) of confinement; Centers for Disease Control and Prevention</string>
+    <string name="abd195">common duct exploration</string>
+    <string name="abd196">congenital dislocation of the hip</string>
+    <string name="abd197">cumulative trauma disorders</string>
+    <string name="abd198">carcinoembryonic antigen </string>
+    <string name="abd199">complete fixation; counting fingers; cystic fibrosis </string>
+    <string name="abd200">chronic fatigue syndrome</string>
+    <string name="abd201">with correction; with glasses </string>
+    <string name="abd202">chronic granulomatous leukemia </string>
+    <string name="abd203">cholesterol </string>
+    <string name="abd204">complete heart block </string>
+    <string name="abd205">congenital heart defects; coronary heart disease </string>
+    <string name="abd206">congestive heart failure</string>
+    <string name="abd207">carbohydrate </string>
+    <string name="abd208">cholesterol</string>
+    <string name="abd209">chronic </string>
+    <string name="abd210">coronary insufficiency </string>
+    <string name="abd211">food </string>
+    <string name="abd212">cytomega1ic inclusion disease</string>
+    <string name="abd213">counter immunoelectrophoresis</string>
+    <string name="abd214">cervical intraepithelial neoplasia </string>
+    <string name="abd215">circumcision  </string>
+    <string name="abd216">carcinoma in situ </string>
+    <string name="abd217">conventional insulin treatment </string>
+    <string name="abd218">creatine kinase </string>
+    <string name="abd219">check </string>
+    <string name="abd220">clinic; chloride</string>
+    <string name="abd221">cholelithiasis; chronic leukemia; cirrhosis of the Liver; cleft lip; corpus luteum  </string>
+    <string name="abd222">chronic liver disease </string>
+    <string name="abd223">chronic lymphocytic leukemia</string>
+    <string name="abd224">clear liquid </string>
+    <string name="abd225">centimeter (1/100 meter)   </string>
+    <string name="abd226">cubic centimeter  </string>
+    <string name="abd227">cystoid macular edema</string>
+    <string name="abd228">cystometrogram </string>
+    <string name="abd229">chronic myelocytic leukemia</string>
+    <string name="abd230">cutaneous malignant melanoma </string>
+    <string name="abd231">controlled mechanical ventilation; cystometrogram; cytomegalovirus </string>
+    <string name="abd232">central nervous system; cutaneous nerve stimulation  </string>
+    <string name="abd233">complains of </string>
+    <string name="abd234">cobalt </string>
+    <string name="abd235">carbon monoxide; coronary occlusion; coronary output</string>
+    <string name="abd236">carbon dioxide  </string>
+
+
+
+
+
+
+
+
+
+    <!-- Touch Zoom String -->
+    <string name="description_image_1">This helps me click on the image to zoom</string>
+    <string name="description_zoom_touch_close">This is the zoomed in image container thing</string>
+
+
+
+
+
+    <string-array name="Glossary">
+        <item>abdominocentesis (ab-dom-ih-noh-sen-TEE-sis)</item>
+        <item>ablation (ab-JAY-shun)</item>
+        <item>abortion (ah-BOR-shun)</item>
+        <item>abrasion (ah-BRAY-zhun)</item>
+        <item>abruptio placentae (ab-RUP-shee-oh plah-SEN-tee) </item>
+        <item>abscess (AB-sess)</item>
+        <item>accommodation (ah-kom-oh-DAY-shun) </item>
+        <item>ACE inhibitors (angiotensin-converting enzyme inhibitors) </item>
+        <item>acetone (ASS-eh-tohn) </item>
+        <item>Achilles tendinitis (ten-dih-NIGH-tis) </item>
+        <item>achlorhydria (ah-klor-HIGH-dree-ah) </item>
+        <item>acne vulgaris (ACK-nee vul-GAY-ris) </item>
+        <item>acquired immune deficiency syndrome </item>
+        <item>acromegaly (ack-roh-MEG-ah-lee) </item>
+        <item>acronym (ACK-roh-nim) </item>
+        <item>acrophobia (ack-roh-FOH-bee-ah) </item>
+        <item>actinic keratosis (ack-TIN-ick kerr-ah-TOH-sis) </item>
+        <item>acute nasopharyngitis (nay-zoh-far-in-JIGH-lis) </item>
+        <item>acute respiratory distress syndrome </item>
+        <item>addiction </item>
+        <item>Addison\'s disease (AD-ih-sonz) </item>
+        <item>adenectomy (ad-eh-NECK-toh-mee) </item>
+        <item>adenitis (ad-eh-NIGH-tis) </item>
+        <item>adenocarcinoma (ad-eh-noh-kar-sih-NOH-mah) </item>
+        <item>adenoidectomy (ad-eh-noid-ECK-toh-mee or ad-eh­noy-DECK-toh-mee) </item>
+        <item>adenoma (ad-eh-NOH-mah) </item>
+        <item>adenoma, pituitary (ad-eh-NOH-mah) </item>
+        <item>adenoma, prolactin-producing </item>
+        <item>adenomalacia (ad-eh-noh-mah-IAY-shee-ah) </item>
+        <item>adenosclerosis (ad-eh-noh-skleh-ROH-sis) </item>
+        <item>adenosis (ad-eh-NOH-sis) </item>
+        <item>adhesion (ad-HEE-zhun) </item>
+        <item>adrenalitis (ah-dree-nal-EYE-tis) </item>
+        <item>adrenitis (ad-reh-NIGH-tis) </item>
+        <item>adrenomegaly (ah-dree-noh-MEG-ah-lee) </item>
+        <item>adrenopathy (ad-ren-OP-ah-thee)</item>
+        <item>aerophagia (ay-er-oh-FAY-jee-ah)</item>
+        <item>agglutination testing (ah-gloo-tih-NAY-shun)</item>
+        <item>agoraphobia (ag-oh-rah-FOH-bee-ah)</item>
+        <item>albinism (AL-bih-niz-um)</item>
+        <item>albuminuria (al-byou-mih-NEW-ree-ah)</item>
+        <item>alcoholism (AL-koh-hol-izm)</item>
+        <item>aldosteronism (al-DOSS-teh-roh-niz-em or al-doh­STER-ohn-izm)</item>
+        <item>allergen (AL-er-jen)</item>
+        <item>allergic rhinitis (rye-NIGH-tis)</item>
+        <item>allergist (AL-er-jist)</item>
+        <item>allergy</item>
+        <item>allogenic (al-oh-JEN-ick)</item>
+        <item>alopecia (al-oh-PEE-shee-ah)</item>
+        <item>alopecia areata</item>
+
+    </string-array>
+
+    <string-array name="Prefixes_Roots">
+        <item>-ac</item>
+        <item>-al</item>
+        <item>-ar</item>
+        <item>-ary</item>
+        <item>-eal </item>
+        <item>-ical</item>
+        <item>-ial </item>
+        <item>-ic</item>
+        <item>-ine </item>
+        <item>-ior</item>
+        <item>-ory</item>
+        <item>-ous</item>
+        <item>-tic</item>
+        <item>-ago</item>
+        <item>-esis</item>
+        <item>-ia </item>
+        <item>-iasis</item>
+        <item>-ion </item>
+        <item>-ism</item>
+        <item>-osis</item>
+        <item>-a</item>
+        <item>-e </item>
+        <item>-um</item>
+        <item>-us</item>
+        <item>-y</item>
+        <item>a-</item>
+        <item>-a </item>
+        <item>ab-</item>
+        <item>abdomin/o</item>
+        <item>-able</item>
+        <item>abort/o </item>
+        <item>abrad/o, abras/o</item>
+        <item>abrupt/o </item>
+        <item>abs-</item>
+        <item>abscess/o</item>
+        <item>absorpt/o</item>
+        <item>-ac</item>
+        <item>acanth/o</item>
+        <item>acetabul/o </item>
+        <item>-acious</item>
+        <item>acne/o</item>
+        <item>acous/o, acoust/o</item>
+        <item>acquir/o</item>
+        <item>acr/o</item>
+        <item>acromi/o </item>
+        <item>actin/o </item>
+        <item>acu/o </item>
+        <item>acuit/o, acut/o</item>
+        <item>acust/o, -acusia, -acusis</item>
+        <item>ad-</item>
+
+    </string-array>
+
+    <string-array name="Abbreviations">
+        <item>A2</item>
+        <item>A</item>
+        <item>AAA</item>
+        <item>AAL</item>
+        <item>AAV</item>
+        <item>Ab</item>
+        <item>AB, ab</item>
+        <item>abd</item>
+        <item>AB, Abnl</item>
+        <item>A/B</item>
+        <item>ABC</item>
+        <item>ABE</item>
+        <item>ABG</item>
+        <item>ABP</item>
+        <item>ABR</item>
+        <item>AC</item>
+        <item>ac</item>
+        <item>AC, ac</item>
+        <item>Acc</item>
+        <item>ACD</item>
+        <item>ACG</item>
+        <item>ACH</item>
+        <item>ACL</item>
+        <item>ACLS</item>
+        <item>ACP</item>
+        <item>ACTH</item>
+        <item>ACVD</item>
+        <item>AD</item>
+        <item>ADD</item>
+        <item>ADE</item>
+        <item>ADH</item>
+        <item>ADHD</item>
+        <item>ADL</item>
+        <item>ad lib</item>
+        <item>adm</item>
+        <item>ADS</item>
+        <item>ADR</item>
+        <item>ADT</item>
+        <item>AE</item>
+        <item>AED</item>
+        <item>AF</item>
+        <item>AFB</item>
+        <item>A fib</item>
+        <item>AFP</item>
+        <item>Ag</item>
+        <item>AG, A/G</item>
+        <item>AH</item>
+        <item>AHD</item>
+        <item>AHF</item>
+        <item>AHG</item>
+        <item>AI</item>
+        <item>AID</item>
+        <item>AIDS</item>
+        <item>AIH</item>
+        <item>AIHA</item>
+        <item>aj</item>
+        <item>AK</item>
+        <item>AKA</item>
+        <item>alb</item>
+        <item>ALG</item>
+        <item>alk</item>
+        <item>alk phos</item>
+        <item>ALL</item>
+        <item>ALND</item>
+        <item>ALP</item>
+        <item>ALS</item>
+        <item>ALT</item>
+        <item>alt dieb</item>
+        <item>alt hor</item>
+        <item>alt noct</item>
+        <item>AMA</item>
+        <item>amb</item>
+        <item>AMD</item>
+        <item>AMI</item>
+        <item>AML</item>
+        <item>amp</item>
+        <item>AMS</item>
+        <item>amt</item>
+        <item>AN</item>
+        <item>ANA</item>
+        <item>ANF</item>
+        <item>ANLL</item>
+        <item>ANS</item>
+        <item>ant</item>
+        <item>AOD</item>
+        <item>AOM</item>
+        <item>A &amp; P</item>
+        <item>AP</item>
+        <item>APLD</item>
+        <item>aq</item>
+        <item>ARD</item>
+        <item>ARDS</item>
+        <item>ARF</item>
+        <item>ARM</item>
+        <item>ART</item>
+        <item>AS</item>
+        <item>ASA</item>
+        <item>ASAP</item>
+        <item>ASCVD</item>
+        <item>ASD</item>
+        <item>ASH</item>
+        <item>ASHD</item>
+        <item>ASIS</item>
+        <item>ASO</item>
+        <item>ASS</item>
+        <item>AST</item>
+        <item>as tol</item>
+        <item>ATP</item>
+        <item>Au</item>
+        <item>AU</item>
+        <item>AUL</item>
+        <item>ausc</item>
+        <item>A-V</item>
+        <item>AVM</item>
+        <item>AVN</item>
+        <item>AVR</item>
+        <item>Ax</item>
+        <item>AZT</item>
+        <item>B/A</item>
+        <item>BA</item>
+        <item>Ba</item>
+        <item>BAC</item>
+        <item>BaE</item>
+        <item>BAO</item>
+        <item>bas</item>
+        <item>BBB</item>
+        <item>BBT</item>
+        <item>BC</item>
+        <item>BCC</item>
+        <item>BE</item>
+        <item>BEAM</item>
+        <item>BED</item>
+        <item>BFP</item>
+        <item>BID, bid, b.i.d</item>
+        <item>bil</item>
+        <item>BIN, bin</item>
+        <item>BK</item>
+        <item>BKA</item>
+        <item>Bld</item>
+        <item>BJ</item>
+        <item>BM</item>
+        <item>BMD</item>
+        <item>BMI</item>
+        <item>BMR</item>
+        <item>BMT</item>
+        <item>BNO</item>
+        <item>BNR</item>
+        <item>BOM</item>
+        <item>B/P, BP</item>
+        <item>BP&amp;P</item>
+        <item>BPH</item>
+        <item>BPM, bpm</item>
+        <item>BPPV</item>
+        <item>BR</item>
+        <item>BRBPR</item>
+        <item>Bronch</item>
+        <item>BRP</item>
+        <item>BS</item>
+        <item>BSE</item>
+        <item>BSO</item>
+        <item>BT</item>
+        <item>BUN</item>
+        <item>BV</item>
+        <item>Bx, bx</item>
+        <item>C1-C7</item>
+        <item>C</item>
+        <item>c</item>
+        <item>c(bar on top)</item>
+        <item>c(bar on bottom)</item>
+        <item>Ca</item>
+        <item>CA, Ca</item>
+        <item>CAB</item>
+        <item>CABG</item>
+        <item>CAD</item>
+        <item>cal</item>
+        <item>cap, caps</item>
+        <item>CAPD</item>
+        <item>CAT</item>
+        <item>cath</item>
+        <item>CAVH</item>
+        <item>CBC, cbc</item>
+        <item>CBF</item>
+        <item>CBI</item>
+        <item>CBR</item>
+        <item>CBS</item>
+        <item>CC</item>
+        <item>cc</item>
+        <item>CCA</item>
+        <item>CCCR</item>
+        <item>CCPD</item>
+        <item>CCr</item>
+        <item>CCT</item>
+        <item>CCU</item>
+        <item>CDC</item>
+        <item>CDE</item>
+        <item>CDH</item>
+        <item>CDT</item>
+        <item>CEA</item>
+        <item>CF</item>
+        <item>CFS</item>
+        <item>C gl</item>
+        <item>CGL</item>
+        <item>Ch</item>
+        <item>CHB</item>
+        <item>CHD</item>
+        <item>CHF</item>
+        <item>CHO</item>
+        <item>chol</item>
+        <item>chr</item>
+        <item>Cl</item>
+        <item>cib</item>
+        <item>CID</item>
+        <item>CIE</item>
+        <item>CIN</item>
+        <item>circ</item>
+        <item>CIS</item>
+        <item>CIT</item>
+        <item>CK</item>
+        <item>ck</item>
+        <item>Cl, cl</item>
+        <item>CL</item>
+        <item>CLD</item>
+        <item>CLL</item>
+        <item>cl liq</item>
+        <item>cm</item>
+        <item>cm(squared)</item>
+        <item>CME</item>
+        <item>CMG</item>
+        <item>CML</item>
+        <item>CMM</item>
+        <item>CMV</item>
+        <item>CNS</item>
+        <item>c/o, C/O</item>
+        <item>Co</item>
+        <item>CO</item>
+        <item>CO2</item>
+
+
+
+    </string-array>
+
+
+    <string-array name="citations">
+
+        <!-- These are the citations for Glossary-->
+
+        <item>"Cardiovascular Medicine." Abdominocentesis. N.p., n.d. Web. 15 Aug. 2016. </item>
+        <item>"Catheter Ablation to Isolate the Pulmonary Veins to Treat Atrial Fibrillation." - Mayo Clinic. N.p., n.d. Web. 15 Aug. 2016. </item>
+        <item>"Abortion Procedures." The Case Against Abortion:. N.p., n.d. Web. 15 Aug. 2016. </item>
+        <item>"Abrasians -." Abrasians -. N.p., n.d. Web. 15 Aug. 2016. </item>
+        <item>"Abruptio Placenta and Healthy Baby' Blog." Abruptio Placenta and Healthy Baby Blog. N.p., n.d. Web. 15 Aug. 2016. </item>
+        <item>"Blausen gallery 2014". Wikiversity Journal of Medicine. DOI:10.15347/wjm/2014.010.</item>
+        <item>"Perception Lecture Notes: The Eye and Image Formation." Perception Lecture Notes: The Eye. N.p., n.d. Web. 15 Aug. 2016. </item>
+        <item>"How Lisinopril and ACE Inhibitors Work." How to ACE HBP. N.p., n.d. Web. 15 Aug. 2016. </item>
+        <item>"Acetone." Sigma-Aldrich: Analytical, Biology, Chemistry &amp; Materials Science Products and Services. N.p., n.d. Web. 15 Aug. 2016. </item>
+        <item>"The Causes And Treatments Of Achilles Tendinitis." : Dwaynenest\'s Blog. N.p., n.d. Web. 15 Aug. 2016. </item>
+        <item>"/tg/ - Traditional Games." /tg/ - Traditional Games. N.p., n.d. Web. 15 Aug. 2016. </item>
+        <item>"Acne – California Advanced Esthetics." California Advanced Esthetics. N.p., n.d. Web. 15 Aug. 2016. </item>
+        <item>"AIDS and HIV Infection." - Body, Viral, Contagious, Causes, What Are AIDS and HIV? N.p., n.d. Web. 15 Aug. 2016. </item>
+        <item>"Acromegaly." Overview. N.p., 16 Jan. 2016. Web. 15 Aug. 2016. </item>
+        <item>"National HOSA." HOSA. N.p., n.d. Web. 15 Aug. 2016. </item>
+        <item>"Acrophobia (I'll Make Ya Famous) - Toronto, Canada." PhotoBotoscom. N.p., 02 Jan. 2013. Web. 15 Aug. 2016. </item>
+        <item>"Keratosis Treatment." Keratosis Treatment. N.p., n.d. Web. 15 Aug. 2016. </item>
+        <item>"Fearless In The Face Of The Common Cold." Odyssey. N.p., 09 Feb. 2016. Web. 15 Aug. 2016. </item>
+        <item>"Nursing." Pinterest. N.p., n.d. Web. 16 Aug. 2016. </item>
+        <item>"Alcohol Addiction Cartoons and Comics." - Funny Pictures from CartoonStock. N.p., n.d. Web. 16 Aug. 2016. </item>
+        <item>"Addison's Disease." Pinterest. N.p., n.d. Web. 16 Aug. 2016. </item>
+        <item>"Portfolio Take a Look at My Work." Welcome. N.p., n.d. Web. 16 Aug. 2016. </item>
+        <item>"Radiology: Reporting Enlarged Lymph Nodes Is Clear And Easy In ICD-10." SuperCoder. N.p., n.d. Web. 17 Aug. 2016. </item>
+        <item>"Adenocarcinoma: MedlinePlus Medical Encyclopedia Image." Adenocarcinoma: MedlinePlus Medical Encyclopedia Image. N.p., n.d. Web. 17 Aug. 2016. </item>
+        <item>"Tonsillectomy &amp; Adenoidectomy | Bellevue | Seattle | Kirkland | Redmond - Dr. Anh Truong Bellevue &amp; Issaquah Ear, Nose &amp; Throat (ENT)." Tonsillectomy &amp; Adenoidectomy| Bellevue | Seattle | Kirkland | Redmond - Dr. Anh Truong Bellevue &amp; Issaquah Ear, Nose &amp; Throat (ENT). N.p., n.d. Web. 17 Aug. 2016. </item>
+        <item>"Parathyroid Adenoma Surgery, Treatment &amp; Diagnosis | Cleveland Clinic." Parathyroid Adenoma Surgery, Treatment &amp; Diagnosis | Cleveland Clinic. N.p., n.d. Web. 17 Aug. 2016. </item>
+        <item>"Brain-Surgery.com." BrainSurgerycom. N.p., n.d. Web. 18 Aug. 2016. </item>
+        <item>"Donate to Help Prolactinoma (pituitary Tumor) Today." GiveForward.com. N.p., n.d. Web. 17 Aug. 2016. </item>
+        <item>"Adhesive Capsulitis of Shoulder." Adhesive Capsulitis Of Shoulder. N.p., n.d. Web. 17 Aug. 2016. </item>
+        <item>"Adrenalitis Tuberculosa." Adrenalitis Tuberculosa. N.p., n.d. Web. 19 Aug. 2016. </item>
+        <item>"Adrenocortical Carcinoma Treatment." National Cancer Institute. N.p., n.d. Web. 19 Aug. 2016. </item>
+        <item>"Adrenal Gland - Dr. Scott Laker - Michigan Surgery." Dr. Scott Laker. N.p., n.d. Web. 19 Aug. 2016. </item>
+        <item>"Lab Exam 1 :( at University of Pittsburgh - Pittsburgh - StudyBlue." StudyBlue. N.p., n.d. Web. 19 Aug. 2016. </item>
+        <item>"GASTROINTESTINAL TRACT GASTROINTESTINAL TRACT The Human Digestive System Is a Complex Series of Organs and Glands That Process, Absorb, Digest Food And." - Ppt Download. N.p., n.d. Web. 19 Aug. 2016. </item>
+        <item>"Agglutination Reactions." Agglutination Reactions. N.p., n.d. Web. 19 Aug. 2016. </item>
+        <item>"Agoraphobia Symptoms." Steven J Seay PhD RSS. N.p., 07 Sept. 2011. Web. 19 Aug. 2016. </item>
+        <item>"Albinism." - Pictures, Definition, Symptoms, Treatment, Causes. N.p., n.d. Web. 19 Aug. 2016. </item>
+        <item>"Early Diagnosis of Renal Disease: Methods for Measuring Albuminuria." Research by Dr Kimberley J. Strong. N.p., n.d. Web. 19 Aug. 2016. </item>
+        <item>"You Say Alcoholism, I Say Liver Crossfit. | Corre&#8230;" Memegenerator.net. N.p., n.d. Web. 19 Aug. 2016. </item>
+        <item>"Hyperaldosteronism." Hyperaldosteronism. N.p., n.d. Web. 19 Aug. 2016. </item>
+        <item>"Item Detail - SafeStaff Allergen - Awareness Poster." Item Detail - SafeStaff Allergen - Awareness Poster. N.p., n.d. Web. 19 Aug. 2016. </item>
+        <item>Ellis-Christensen, Tricia, and O. Wallace. WiseGeek. Conjecture, n.d. Web. 19 Aug. 2016. </item>
+        <item>"Spring Allergy Symptoms and Relief." Oransi RSS. N.p., 24 Mar. 2016. Web. 19 Aug. 2016. </item>
+        <item>"Stem-cell." Stem-cell. N.p., n.d. Web. 19 Aug. 2016. </item>
+        <item>"A Perfect World." - Clip Art: Cartoons. N.p., n.d. Web. 19 Aug. 2016. </item>
+        <item>"Alopecia Areata – Causes, Symptoms, Treatment, Pictures, Remedies." Diseases Doctor. N.p., n.d. Web. 19 Aug. 2016. </item>
+
+
+
+    </string-array>
+
+</resources>
+
